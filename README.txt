@@ -29,7 +29,7 @@ INSTALLATION:
 
 1. In Blender go to Edit > Preferences... > Add-ons tab
 2. Click "Install..."
-3. Locate the Split_Normals_Align_XYZ.zip file
+3. Locate the Split-Normals-Align-XYZ-master.zip file
 4. Enable the addon and it will show up in your side panel (N panel)
 5. Enjoy
 
